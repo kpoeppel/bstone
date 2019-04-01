@@ -15,4 +15,4 @@ Jetzt haben wir eingesehen, dass alles ein riesen Fehler war und ziehen deshalb 
 
 ## Aufbau im github:
 Die damaligen Channels werden jetz als .txt files angelegt
-Wenn jemand etwas "posten" will macht er ein ``git pull``, ändert das gewünschte file, macht ``git add .``, ``git commit -m "Meine Änderung"``, ``git push`` und schon sind die Änderungen gespeichert.
+Wenn jemand etwas "posten" will macht er ein ``git pull``, ändert das gewünschte file, macht ``git add .``, ``git commit -m "Meine Änderung"``, ``git push`` und schon habt ihr einen Post verfasst.
