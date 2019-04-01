@@ -11,7 +11,7 @@ Jetzt haben wir eingesehen, dass alles ein riesen Fehler war und ziehen deshalb 
 1. Unbegrenzter Speicherplatz für Privatnutzer
 2. jeder hat automatisch einen witzigen, zufallsgenerierten Profilavatar
 3. Anschuldigungen und resultierende Konflikte können ganz einfach per ``git blame`` geklärt werden.
-4. Daniel und ich haben noch mehr Kontrolle über die Inhalte (keine versteckten geheimen Gruppen mehr) und können dementsprechend gemäß Artikel 13 der neuen Urheberrechtsreform als Platformbetreiber gewöhrleisten, dass keine urheberrechtlich gehscützten Inhalte auf unserer Platform landen
+4. Daniel und ich haben noch mehr Kontrolle über die Inhalte (keine versteckten geheimen Gruppen mehr) und können dementsprechend gemäß Artikel 13 der neuen Urheberrechtsreform als Platformbetreiber gewährleisten, dass keine urheberrechtlich gehschützten Inhalte auf unserer Platform landen.
 
 ## Aufbau im github:
 Die damaligen Channels werden jetz als .txt files angelegt
